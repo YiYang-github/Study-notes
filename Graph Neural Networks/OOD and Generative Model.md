@@ -1,4 +1,4 @@
-A list of paper I read.
+A list of paper.
 
 
 Out of Distribution on graphs

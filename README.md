@@ -1,20 +1,14 @@
-# Study-notes
-The notes are records of my own learning process, including Artificial Intelligence, Statistics and Computational Social Science.
+# Study Notes
 
-**Out of Distribution on graphs**  
+This repository serves as a collection of my coursework assignments from the University of Science and Technology of China and various distinguished open courses.
 
-1.Energy-based Out-of-distribution Detection  
-2.Energy-based out-of-distribution Detection for graph neural networks  
-3.Unsupervised Out-of-Distribution Detection with Diffusion Inpainting  
+## Current Contents
 
-**Diffusion model**  
-1.Denoising diffusion probabilistic models  
-2.Generative Modeling by Estimating Gradients of the Data Distribution   
-3.Improved Techniques for Training Score-Based Generative Models   
-4.Maximum Likelihood Training of Score-Based Diffusion Models  
-5.Score-Based Generative Modeling through Stochastic Differential Equations   
-6.DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps  
-7.Classifier-Free Diffusion Guidance  
+### TinyML and Efficient Deep Learning Computing
 
+Offered by: [Han Lab, MIT](https://hanlab.mit.edu/courses/2023-fall-65940) - Fall 2023
 
+**Status**: _Updating..._
 
+- **Lab 0** 
+- **Lab 1**
