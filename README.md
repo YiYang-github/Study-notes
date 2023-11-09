@@ -12,3 +12,11 @@ Offered by: [Han Lab, MIT](https://hanlab.mit.edu/courses/2023-fall-65940) - Fal
 
 - **Lab 0** 
 - **Lab 1**
+
+### CS224N Natural Language Processing with Deep Learning
+
+Offered by: [Chris Manning, Stanford](https://web.stanford.edu/class/cs224n/) - Winter 2023
+
+**Status**: _Updating..._
+
+- **Assignment1** 
